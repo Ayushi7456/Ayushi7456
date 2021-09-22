@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ayushig705@gmail.com**
 
-- ⚡ Fun fact **I dance like nobody's watching cuz they're not. XD**
+- ⚡ Fun fact **I dance to overcome F.O.M.O. XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
