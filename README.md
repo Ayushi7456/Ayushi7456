@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/__ayushi_g" target="blank"><img src="https://img.shields.io/twitter/follow/__ayushi_g?logo=twitter&style=for-the-badge" alt="__ayushi_g" /></a> </p>
 
-<h1 align="left">🙋‍♀️About me</h1>
+<h1 align="left">About me🚀</h1>
 
 - 🔭 I’m currently working on **a frontend project**
 
