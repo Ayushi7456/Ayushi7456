@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayushi</h1>
-<h3 align="center">A curious learner and a open source enthusiast who loves competitive programming too.</h3>
+<h3 align="center">A sophomore and a open source enthusiast who loves competitive programming too.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi7456&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi7456" /> </p>
 
