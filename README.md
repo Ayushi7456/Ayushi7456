@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayushi</h1>
 <h3 align="center">A tech savvy sophomore and an aspiring software developer👩‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi7456&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi7456" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi7456&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi7456" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/__ayushi_g" target="blank"><img src="https://img.shields.io/twitter/follow/__ayushi_g?logo=twitter&style=for-the-badge" alt="__ayushi_g" /></a> </p>
 
