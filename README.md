@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayushi</h1>
-<h3 align="center">A tech savvy sophomore who loves to learn and explore different areas of tech 👩‍💻</h3>
+<h3 align="center">A pre-final year undergrad who loves to learn and explore different areas of tech 👩‍💻</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi7456&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi7456" /> </p> -->
 
