@@ -1,19 +1,17 @@
-<h1 align="center">Hi👋, I'm Ayushi Gupta</h1>
-<h3 align="center">Software Engineer with experience in React, Python and Cloud Solutions👩‍💻</h3>
+<h1 align="center">Hi👋, I'm Ayushi</h1>
+<h3 align="center">Software Engineer | Java | Distributed Systems</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi7456&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi7456" /> </p> -->
 
-<p align="left"> <a href="https://twitter.com/__ayushi_g" target="blank"><img src="https://img.shields.io/twitter/follow/__ayushi_g?logo=twitter&style=for-the-badge" alt="__ayushi_g" /></a> </p>
 
 <h3 align="left">About me🚀</h3>
 
-- 🔭 I’m currently working as a **Python Developer** for an automation project
+- 💻 Passionate about building scalable and reliable backend systems.
+- 🌱 Skilled in Java, Spring Boot, Microservices, SQL, and RESTful APIs.
+- 👯 Currently strengthening my software engineering and system design skills.
+- 🔭 Exploring opportunities to deepen my expertise in backend architecture, and high-performance applications. 
 
-- 🌱 I have experience in **Full-Stack Web Development**
-
-- 👯 I'm exploring opportunities to deepen my expertise in **Software Developmen**t 
-
-- 📫 How to reach me **iucgupta18@gmail.com**
+- 📫 Reach me at **iucgupta18@gmail.com**
 
 
 <div align="center">
