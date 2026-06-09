@@ -8,8 +8,8 @@
 
 - 💻 Passionate about building scalable and reliable backend systems.
 - 🌱 Skilled in Java, Spring Boot, Microservices, SQL, and RESTful APIs.
-- 👯 Currently strengthening my software engineering and system design skills.
-- 🔭 Exploring opportunities to deepen my expertise in backend architecture, and high-performance applications. 
+- 👯 Currently strengthening my software engineering, system design skills.
+- 🔭 Exploring opportunities to deepen my expertise in backend architecture, high-performance applications and AI-driven solutions.
 
 - 📫 Reach me at **iucgupta18@gmail.com**
 
